@@ -37,10 +37,3 @@ Model:
 
 
 4. Perform predictions on test set.
-
-
-
-
-
-
-
